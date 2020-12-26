@@ -3,7 +3,7 @@
 The study aims to measure the emotional intelligence of the young people who will recently transition into working domain to find out the significant differences on emotional intelligence on the basis of age group of 20-24. A sample of 211 students were selected of different engineering background from various colleges. Standard emotional intelligence and big five factor test were used for data collection and the results reveal that openness to experience is a most significant factor amongst big five inventory’s variables and prepared model from linear regression able to show a 0.58 accuracy. Study for extended to predict the depression in the form of high, medium and low chances of person is depressed. Naïve bayes and decision tree model have provided 0.61 and 0.72 accuracy on test dataset respectively.
 
 # Project Introduction
-Markup : - [ ]	What is Emotional Intelligence and why to study EQ having already IQ as a measure of intelligence?
+- [ ]	What is Emotional Intelligence and why to study EQ having already IQ as a measure of intelligence?
 
 Life is an inherently sociable construct, without the ability to function well within this relational environment, it’s doubtful how far intelligence alone will get one. 
 EQ as a driver of success applies in the workplace also. As per the study, people with average IQ’s outperform those with the highest IQs 70% of the time. And 75% of careers are derailed for reasons related to emotional competencies, including the inability to handle interpersonal problems; unsatisfactory team leadership during times of difficulty or conflict; or inability to adapt to change or elicit trust.
